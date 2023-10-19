@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Todo List con NextJs, Prisma y Tailwind
+
+¡Todo es una aplicación web desarrollada como parte de un curso para aprender los conceptos básicos de Nextjs. Todo es una aplicación simple de lista de tareas que te permite agregar, completar y eliminar tareas.
+
+Se puede acceder a él a través de la siguiente URL: (https://todolist-nextjs-ic8rgydd1-drachirds-projects.vercel.app/).
 
 ## Getting Started
 
